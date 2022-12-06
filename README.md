@@ -2,6 +2,7 @@
 Traveling Salesman
 Introduction
 This application program seeks to solve a business problem by implementing data structures and algorithms. Specifically, like traveling salesman problem (NP-complete problem), traveling trucks to load packages, and delivering them to different destinations with certain constraints given as the client requirements. This project implements and analyze high performance data structures and supporting algorithms including but not limited to self-adjusting data structures, hashing, dynamic programming, and set representation. This programming project was done using different python techniques related to memory management and data compression. 
+
 A. Algorithm Identification
 This application program uses Dijkstra as the main algorithm to solve the traveling trucks problem which is given as part of the class lecture resource and is called greedy algorithm. Please see a python file called “algo” for more details in the project folder. 
 B1. Logic Comments
